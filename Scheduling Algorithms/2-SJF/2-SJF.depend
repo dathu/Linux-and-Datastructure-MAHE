@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664365253 source:e:\sois-manipal\linux and data structure\unit 1\codeblock\2-sjf\main.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+
